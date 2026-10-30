@@ -1,12 +1,9 @@
 {
   "name": "botwa2",
   "version": "1.0.0",
-  "description": "JUN-MD Bot for Render",
   "main": "bot.js",
   "type": "module",
-  "scripts": {
-    "start": "node bot.js"
-  },
+  "scripts": { "start": "node bot.js" },
   "dependencies": {
     "@hapi/boom": "^4.0.1",
     "@itsliaaa/baileys": "^0.3.18-final",
