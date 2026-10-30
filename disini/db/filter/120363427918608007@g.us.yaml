@@ -1,0 +1,34 @@
+settings:
+  enabled: true
+filters:
+  rules:
+    type: mengandung
+    response: |-
+      ⚠️ RULES MATCH
+      - *TIDAK MENERIMA TUNDA MATCH*(TUNDA MATCH BABU IN) 
+      - OPR LEBIH 6 MENIT DIS
+      - Skil wajib HTTPS (Alok, hayato, Kelly, Caroline) *JIKA TIDAK ADA KOSONGIN AJA*✅
+      - Pet wajib : kitty, falco, shiba dan pet yang gak guna di CS✅
+      - ALL skin SG2 boleh✅
+      - ALL bundle/set bundle boleh kecuali FULL SET BUNDLE BALAP/ BENCONGG
+      - ALL berubah boleh✅
+      - NO LANTAI 2/ATAP❌
+      - tangga boleh tapi jangan ke atap/lantai 2✅
+      - NO kolong CT❌
+      - NO sepatu❌
+      - NO HS brutal❌
+      - NO rege, file, cheat atau barang² yang CURANG!❌
+      - NO Character cewe/bencong❌
+      - NO end animasi
+    permission: all
+    protect: false
+  kontol:
+    type: mengandung
+    response: ketikanya tolong di jaga bang
+    permission: all
+    protect: false
+  jembot:
+    type: mengandung
+    response: jangan toxic beb
+    permission: all
+    protect: false

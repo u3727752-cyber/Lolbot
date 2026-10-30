@@ -1,0 +1,58 @@
+logs:
+  - title: ENTRY_LOG_1776022179466
+    header:
+      tgl: 13-04-2026
+      waktu: '02:29:39'
+      wa_type: NON-BUSINESS
+    kategori:
+      nama: Jun Official
+      nomor: '6281556460844'
+      bio: Hidden
+      content: conversation
+    other_save:
+      jid: 6281556460844@s.whatsapp.net
+      lid: 6281556460844@lid
+      is_group: false
+      group_jid: Private Chat
+      newsletter_jid: None
+      device: android
+      platform: linux
+      push_name: Jun Official
+  - title: ENTRY_LOG_1776022302145
+    header:
+      tgl: 13-04-2026
+      waktu: '02:31:42'
+      wa_type: NON-BUSINESS
+    kategori:
+      nama: Jun Official
+      nomor: '6285607664362'
+      bio: Hidden
+      content: extendedTextMessage
+    other_save:
+      jid: 6285607664362@s.whatsapp.net
+      lid: 6285607664362@lid
+      is_group: false
+      group_jid: Private Chat
+      newsletter_jid: None
+      device: android
+      platform: linux
+      push_name: Jun Official
+  - title: ENTRY_LOG_1783007051231
+    header:
+      tgl: 02-07-2026
+      waktu: '22:44:11'
+      wa_type: NON-BUSINESS
+    kategori:
+      nama: Hdyatt
+      nomor: '120363427918608007'
+      bio: Hidden
+      content: info
+    other_save:
+      jid: 120363427918608007@g.us
+      lid: 120363427918608007@lid
+      is_group: true
+      group_jid: 120363427918608007@g.us
+      newsletter_jid: None
+      device: android
+      platform: linux
+      push_name: Hdyatt

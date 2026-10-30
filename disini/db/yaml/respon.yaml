@@ -1,0 +1,8 @@
+settings:
+  welcome_message: true
+  reply_in_group: true
+keywords:
+  exact:
+    p: Halo ${senderName}
+  partial:
+    assalam: Waalaikumsalam {username} 💕

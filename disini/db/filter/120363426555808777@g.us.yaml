@@ -1,0 +1,18 @@
+settings:
+  enabled: true
+filters:
+  editing:
+    type: mengandung
+    response: |-
+      `SFX LIBRARY`
+      > myinstants.com
+      `Template Meme`
+      > imgflip.com
+      `Create Meme`
+      > imageresizer.com
+      `Create Meme`
+      > makeameme.org
+      `Create Promt`
+      > meigen.ai
+    permission: all
+    protect: false
